@@ -12,7 +12,8 @@ h1{
 body{
     height: 100vh;
     align-items: center;
-    justify-content: content center;
+    display : "flex";
+    justify-content:  center;
     background:#e0e3eb;
 }
 .container{
